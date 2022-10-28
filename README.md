@@ -1,0 +1,2 @@
+# sqL NOTES
+ sQL NOTES 
